@@ -17,6 +17,8 @@ int main(){
     return 0;
 }
 
+// output : 5,78,3,9,4,5
+
 
 
 
